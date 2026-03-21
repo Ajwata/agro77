@@ -1,0 +1,17 @@
+{
+  "name": "Агротехекспорт",
+  "short_name": "Агро77",
+  "lang": "uk-UA",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f1e8",
+  "theme_color": "#1f6b52",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
